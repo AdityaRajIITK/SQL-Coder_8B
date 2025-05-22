@@ -1,0 +1,9 @@
+pandas
+psycopg2
+sqlalchemy
+torch
+transformers
+huggingface-hub
+psutil
+accelerate
+sqlparse
